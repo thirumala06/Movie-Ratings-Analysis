@@ -14,3 +14,5 @@ Task 5: Create a chart that will display the Budget of Top 3 Movies by both Audi
 and Critics rating. Also segregate the chart by Genre. 
 # Project Description:
 This project analyzes movie performance in the entertainment industry by comparing critic and audience ratings along with movie budgets from 2007 to 2011. Various visualizations were created to study budget trends across genres, correlation between audience and critic ratings, genre-wise movie releases over time, rating trends across years, and budget analysis of top-rated movies. The insights help understand how budget and genre influence movie ratings and audience perception.
+# Dashboard Link:
+https://public.tableau.com/app/profile/thirumala.durai/viz/Movies1_17707344038240/Dashboard1?publish=yes
